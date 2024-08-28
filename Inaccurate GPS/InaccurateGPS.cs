@@ -57,6 +57,15 @@ the runner goes at a constant speed in a straight line between consecutive posit
  * Problem: calculate the total run distance that is lost by the GPS
  * 
  * Underlying problem: Calculate the correct positioning of the gps from the values of the actuall input
+ *
+ * Example input
+ * 6 2
+ * 0 0 0
+ * 0 3 3
+ * -2 5 5
+ * 0 7 7
+ * 2 5 9
+ * 0 3 11
  */
 
 using System;

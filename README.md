@@ -12,3 +12,4 @@ Solutions for some Kattis Programming problems.
 | Problem | Languages | Completion | 
 |-|-|-|
 | [Unique Cities](https://github.com/Arnith86/Kattis_Programmering-Problems/tree/main/Unique%20Cities) | C# | Solved | 
+| [Annoying Coworker](https://github.com/Arnith86/Kattis_Programmering-Problems/tree/main/Annoying%20Coworker) | C# | Solved |

@@ -9,5 +9,6 @@ Solutions for some Kattis Programming problems.
 | [Äpplen och päron](https://github.com/Arnith86/Kattis_ProgrammeringsOlympiaden/tree/main/%C3%84pplen%20och%20p%C3%A4ron) | C# | Solved | [To Problem](https://po.kattis.com/problems/applenparon) |
 
 ## Aptitude test
-| Problem | Languages | Completion | :link: |
-|-|-|-|-|
+| Problem | Languages | Completion | 
+|-|-|-|
+| [Unique Cities](https://github.com/Arnith86/Kattis_Programmering-Problems/tree/main/Unique%20Cities) | C# | Solved | 

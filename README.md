@@ -1,0 +1,2 @@
+# Kattis_ProgrammeringsOlympiaden
+Solutions for some Kattis Programmeringsolympiaden problems

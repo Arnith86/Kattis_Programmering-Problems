@@ -13,3 +13,5 @@ Solutions for some Kattis Programming problems.
 |-|-|-|
 | [Unique Cities](https://github.com/Arnith86/Kattis_Programmering-Problems/tree/main/Unique%20Cities) | C# | Solved | 
 | [Annoying Coworker](https://github.com/Arnith86/Kattis_Programmering-Problems/tree/main/Annoying%20Coworker) | C# | Solved |
+| [Innacuret GPS](https://github.com/Arnith86/Kattis_Programmering-Problems/tree/main/Inaccurate%20GPS) | C# | Solves example input |
+Original version did not solve the problem completely, this is a revised version. I can however not performe the test as those were time limited.

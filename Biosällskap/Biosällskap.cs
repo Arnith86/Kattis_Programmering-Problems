@@ -11,7 +11,7 @@ using System.IO;
  * M > (N - UP), sälskap blir inte insläppt  
  * 
  */
-public class Program
+public class Biosällskap
 {
 	static void Main()
 	{
@@ -20,8 +20,7 @@ public class Program
 		long capacity = 0;
 		long visitingGroups = 0;
 		long groupsRejected = 0;
-		//long[] howManyVisitorsInGroup; 
-
+	
 		while ((input = Console.ReadLine()) != null) 
 		{
 			string[] inputToArray = input.Split(' ');

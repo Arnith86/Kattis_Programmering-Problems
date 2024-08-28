@@ -1,0 +1,96 @@
+# User-specific files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+.packages/
+packages/*
+# Include if nuget restore is part of the workflow
+# !packages/*.dll
+# !packages/repositories.config
+
+# Entity Framework Core Migrations
+[Mm]igrations/
+
+# Uncomment if using
+# publish/
+# *.publishsettings
+
+# Rider directories
+.idea/
+
+# User-specific files (Mono/VSCode)
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Local History for Visual Studio 2024
+.vscode/history/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Common folder
+[Tt]emp/
+
+# Visual Studio 2024 add-on directories
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# Package Restore
+*.nuget/
+# NuGet Packages
+*.nupkg
+*.snupkg
+# Include if using JetBrains Rider
+.idea
+
+# Auto-generated files from Visual Studio
+*.suo
+*.user
+*.cache
+*.ilk
+*.pdb
+
+# DotNetCore build directories
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
